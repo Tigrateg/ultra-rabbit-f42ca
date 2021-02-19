@@ -30,7 +30,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/LOGO_YAZILI.jpg"
+        "logo": "images/LOGO_YAZILI.jpg",
+        "title": "Header titlee"
     },
     "footer": {
         "has_nav": true,
